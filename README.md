@@ -1,6 +1,6 @@
 # Ghostfolio Data Feeder
 
-Ghostfolio-feeder extends the functionality of Ghostfolio by automatically adding data via internal APIs. The sources of the data are taken by scraping financial websites.
+Ghostfolio Feeder extends the functionality of Ghostfolio by automatically adding data via internal APIs. The sources of the data are taken by scraping financial websites.
 
 ## Supported sources
 
